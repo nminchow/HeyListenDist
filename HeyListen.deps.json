@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "6d412823085f65ec87e50c7e8a0db166dfeab575"
+    "signature": "fba6ba3f28f68523649090626021267f43f38a10"
   },
   "compilationOptions": {},
   "targets": {
@@ -15,7 +15,7 @@
           "Microsoft.Extensions.Configuration": "2.0.0",
           "Microsoft.Extensions.Configuration.FileExtensions": "2.0.0",
           "Microsoft.Extensions.Configuration.Json": "2.0.0",
-          "SpotifyAPI-NET": "2.17.1"
+          "SpotifyAPI-NET": "2.19.0"
         },
         "runtime": {
           "HeyListen.dll": {}
@@ -42,7 +42,7 @@
       },
       "Discord.Net.Core/1.0.2": {
         "dependencies": {
-          "Newtonsoft.Json": "10.0.2",
+          "Newtonsoft.Json": "10.0.3",
           "System.Collections.Immutable": "1.4.0",
           "System.Interactive.Async": "3.1.1"
         },
@@ -183,7 +183,7 @@
         "dependencies": {
           "Microsoft.Extensions.Configuration": "2.0.0",
           "Microsoft.Extensions.Configuration.FileExtensions": "2.0.0",
-          "Newtonsoft.Json": "10.0.2"
+          "Newtonsoft.Json": "10.0.3"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.Json.dll": {}
@@ -279,7 +279,7 @@
           }
         }
       },
-      "Newtonsoft.Json/10.0.2": {
+      "Newtonsoft.Json/10.0.3": {
         "dependencies": {
           "Microsoft.CSharp": "4.4.0",
           "System.ComponentModel.TypeConverter": "4.3.0",
@@ -462,9 +462,9 @@
           }
         }
       },
-      "SpotifyAPI-NET/2.17.1": {
+      "SpotifyAPI-NET/2.19.0": {
         "dependencies": {
-          "Newtonsoft.Json": "10.0.2"
+          "Newtonsoft.Json": "10.0.3"
         },
         "runtime": {
           "lib/SpotifyAPI.dll": {}
@@ -1520,12 +1520,12 @@
       "path": "microsoft.win32.registry/4.4.0",
       "hashPath": "microsoft.win32.registry.4.4.0.nupkg.sha512"
     },
-    "Newtonsoft.Json/10.0.2": {
+    "Newtonsoft.Json/10.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-iwElSU2IXmwGvytJsezyDML2ZWDkG2JzTYzlU/BNlmzMdlmRvbnwITsGGY74gwVEpDli1UdOLkMT7/3jxWvXzA==",
-      "path": "newtonsoft.json/10.0.2",
-      "hashPath": "newtonsoft.json.10.0.2.nupkg.sha512"
+      "sha512": "sha512-hSXaFmh7hNCuEoC4XNY5DrRkLDzYHqPx/Ik23R4J86Z7PE/Y6YidhG602dFVdLBRSdG6xp9NabH3dXpcoxWvww==",
+      "path": "newtonsoft.json/10.0.3",
+      "hashPath": "newtonsoft.json.10.0.3.nupkg.sha512"
     },
     "Remotion.Linq/2.1.1": {
       "type": "package",
@@ -1674,12 +1674,12 @@
       "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
       "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
     },
-    "SpotifyAPI-NET/2.17.1": {
+    "SpotifyAPI-NET/2.19.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-EhT2Cn4gIM073UHuMfQa3Duw7RSBt5s5cXT/RHi6q/iA2LZWYNPN/PtmsUbD0DRf9zAnjj3fH823ZDujuedy1Q==",
-      "path": "spotifyapi-net/2.17.1",
-      "hashPath": "spotifyapi-net.2.17.1.nupkg.sha512"
+      "sha512": "sha512-PxmdnO3J0Gb8JBHDA622bqrg43GcxRqRACJ6XNid/Js/opV7kcNXmXskozIVWuqlzSyTRS98+R9jaQHiQ5oTWA==",
+      "path": "spotifyapi-net/2.19.0",
+      "hashPath": "spotifyapi-net.2.19.0.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",
